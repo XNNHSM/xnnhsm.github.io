@@ -18,10 +18,10 @@ let fruitSlowDown = false;
 // 水果弹性(0-1 0.9弹性很大 高难度)
 let fruitTanXing = false;
 
-let adLink = 'http://image.oldpan.me/qrcode_for_gh_2223dc9f159a_344.jpg';
+let adLink = '';
 
 // 修改网页标题
-document.getElementsByTagName("title")[0].innerText = '合成大西瓜';
+document.getElementsByTagName("title")[0].innerText = '合成臭傻子';
 
 // 无敌模式(改为false则无敌) 
 let is_wudi = true;
