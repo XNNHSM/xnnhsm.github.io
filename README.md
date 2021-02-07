@@ -1,1 +1,1 @@
-# xnnhsm.github.io
+# 合成臭傻子
